@@ -10,8 +10,8 @@ I am a senior student at Department of Computer Science and Technology in Univer
 
 ### Education
 
-- <p style="text-align:left;"><strong><a href="http://en.ustc.edu.cn/">University of Science and Technology of China (USTC)</a></strong><span style="float:right;"></p>
-- <p style="text-align:left;"><strong><a href="http://en.scgy.ustc.edu.cn/profile">The school of the gifted young</a></strong><span style="float:right;"></p>
+- <p style="text-align:left;"><strong><a href="http://en.ustc.edu.cn/">University of Science and Technology of China (USTC)</a></strong><span style="float:right;">
+- <p style="text-align:left;"><strong><a href="http://en.scgy.ustc.edu.cn/profile">The school of the gifted young</a></strong><span style="float:right;">
 - Major in Computer Science and Technology
 - **Hua Xia Talent Program** in Computer Science and Technology
 - **Mathematics Relevant Coursework:** Mathematical Analysis B1 (95/100), Mathematical Analysis B2 (98/100), Linear Algebra B1 (95/100), Stochastic Processes B (91/100),Graph Theory (97/100), Mathematical Logic(98/100)
