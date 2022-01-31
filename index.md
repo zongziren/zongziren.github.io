@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## Welcome to Shurui Zhong 's Home Page
 
-You can use the [editor on GitHub](https://github.com/zongziren/zongziren.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Email: zsr1341864378@mail.ustc.edu.cn
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Github: [zongziren](https://github.com/zongziren)
 
-### Markdown
+## Biography
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am a senior student at Department of Computer Science and Technology in University of Science and Technology of China.
 
-```markdown
-Syntax highlighted code block
+### Education
 
-# Header 1
-## Header 2
-### Header 3
+- <p style="text-align:left;"><strong><a href="http://en.ustc.edu.cn/">University of Science and Technology of China (USTC)</a></strong><span style="float:right;"></p>
+- <p style="text-align:left;"><strong><a href="http://en.scgy.ustc.edu.cn/profile">The school of the gifted young</a></strong><span style="float:right;"></p>
+- Major in Computer Science and Technology
+- **Hua Xia Talent Program** in Computer Science and Technology
+- **Mathematics Relevant Coursework:** Mathematical Analysis B1 (95/100), Mathematical Analysis B2 (98/100), Linear Algebra B1 (95/100), Stochastic Processes B (91/100),Graph Theory (97/100), Mathematical Logic(98/100)
+- **Computer Science Relevant Coursework:** , Introduction to Computer Systems (Honor) (95/100), Computer Programming A (92/100), C Language Programming II(93/100), Operations Research (92/100), Computer Networks (92/100) , Principles and Techniques of Compiler(Honor)（95/100), Design Methods of Embedded System (96/100)
 
-- Bulleted
-- List
+### Research Interests
 
-1. Numbered
-2. List
+<p style="text-align:left;"><strong>Undergraduate Researcher, <a href="http://acsa.ustc.edu.cn/">Advanced Computer System Architecture Laboratory(ACSA)</a>, USTC</strong><span style="float:right;">April 2020 - Jan 2021</span></p>
 
-**Bold** and _Italic_ and `Code` text
+Advisor: Prof. **[Hong An](http://cs.ustc.edu.cn/2020/0426/c23235a460072/page.htm)** (USTC)
 
-[Link](url) and ![Image](src)
-```
+- ISC21(the International Supercomputing Conference 2021 Student Cluster Competition)
+  - In charge of the optimization of lammps(Large-scale Atomic/Molecular Massively Parallel Simulator) which is is a classical molecular dynamics code. Individual Ranking:4
+  - In charge of the Coding Challenge.(The main target is to analyze MPI_alltoallv patterns within the application.) Individual Ranking:4
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<p style="text-align:left;"><strong>Undergraduate Researcher, "Sensorweb Research Laboratory, USTC</strong><span style="float:right;">Jan 2021 - present</span></p>
 
-### Jekyll Themes
+Advisor: Prof. **[Wei Gong](http://staff.ustc.edu.cn/~weigong/)** (USTC)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zongziren/zongziren.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- My research focuses on wireless networks.
+- Preparing a submission to Mobicom.
