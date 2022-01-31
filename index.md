@@ -19,7 +19,7 @@ I am a senior student at Department of Computer Science and Technology in Univer
 
 ### Research Interests
 
-<p style="text-align:left;"><strong>Undergraduate Researcher, <a href="http://acsa.ustc.edu.cn/">Advanced Computer System Architecture Laboratory(ACSA)</a>, USTC</strong><span style="float:right;">April 2020 - Jan 2021</span></p>
+<p style="text-align:left;"><strong>Undergraduate Researcher, <a href="http://acsa.ustc.edu.cn/">Advanced Computer System Architecture Laboratory(ACSA)</a>, USTC</strong><span style="float:right;">April 2020 - Jul 2021</span></p>
 
 Advisor: Prof. **[Hong An](http://cs.ustc.edu.cn/2020/0426/c23235a460072/page.htm)** (USTC)
 
@@ -27,7 +27,7 @@ Advisor: Prof. **[Hong An](http://cs.ustc.edu.cn/2020/0426/c23235a460072/page.ht
   - In charge of the optimization of lammps(Large-scale Atomic/Molecular Massively Parallel Simulator) which is is a classical molecular dynamics code. Individual Ranking:4
   - In charge of the Coding Challenge.(The main target is to analyze MPI_alltoallv patterns within the application.) Individual Ranking:4
 
-<p style="text-align:left;"><strong>Undergraduate Researcher, "Sensorweb Research Laboratory, USTC</strong><span style="float:right;">Jan 2021 - present</span></p>
+<p style="text-align:left;"><strong>Undergraduate Researcher, "Sensorweb Research Laboratory, USTC</strong><span style="float:right;">Jul 2021 - present</span></p>
 
 Advisor: Prof. **[Wei Gong](http://staff.ustc.edu.cn/~weigong/)** (USTC)
 
