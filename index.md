@@ -40,5 +40,5 @@ Advisor: Prof. **[Wei Gong](http://staff.ustc.edu.cn/~weigong/)** (USTC)
 
 ​	University of science and technology of China young eagle cup men's football match：Championship
 
-​	![](E:\university\ustc\myself\zongziren.github.io\1.jpg)
+​	![](.\1.jpg)
 
