@@ -28,6 +28,19 @@ I am a senior student at Department of Computer Science and Technology in Univer
 
 - **Computer Science Relevant Coursework:** , Introduction to Computer Systems (Honor) (95/100), Computer Programming A (92/100), C Language Programming II(93/100), Operations Research (92/100), Computer Networks (92/100) , Principles and Techniques of Compiler(Honor)（95/100), Design Methods of Embedded System (96/100)
 
+
+
+### Research Interests
+
+- **Computer Systems**
+  - Computer networks
+  - Concurrent, parallel and distributed systems 
+
+- **Applied Computer Science**
+  - Machine Learning
+
+
+
 ### Research Experience
 
 <p style="text-align:left;"><strong>Undergraduate Researcher, <a href="http://acsa.ustc.edu.cn/">Advanced Computer System Architecture Laboratory(ACSA)</a>, USTC</strong><span style="float:right;">April 2020 - Jul 2021</span></p>
@@ -35,8 +48,16 @@ I am a senior student at Department of Computer Science and Technology in Univer
 Advisor: Prof. **[Hong An](http://cs.ustc.edu.cn/2020/0426/c23235a460072/page.htm)** (USTC)
 
 - ISC21(the International Supercomputing Conference 2021 Student Cluster Competition)(Sixth place in the group)
+
+  
+
   - In charge of the optimization of lammps(Large-scale Atomic/Molecular Massively Parallel Simulator) which is is a classical molecular dynamics code. Individual Ranking:4
+
+  
+
   - In charge of the Coding Challenge.(The main target is to analyze MPI_alltoallv patterns within the application.) Individual Ranking:4
+
+
 
 <p style="text-align:left;"><strong>Undergraduate Researcher, Sensorweb Research Laboratory, USTC</strong><span style="float:right;">Jul 2021 - present</span></p>
 
@@ -44,6 +65,26 @@ Advisor: Prof. **[Wei Gong](http://staff.ustc.edu.cn/~weigong/)** (USTC)
 
 - My research focuses on wireless networks.
 - Preparing a submission to SENSYS.
+
+
+
+### Awards
+
+- **Outstanding Freshman Scholarship (Grade 1)** 2019
+
+- **USTC Overseas Alumni Foundation Outstanding Student Scholarship** 2019
+
+- **Outstanding Student Scholarship (Grade 1) **2020
+
+- **Electromagnetism Little Essay Contest(Grade 3) **2020
+
+- **Second Prize of AnHui Competition Area in The Chinese Mathematics Competitions** 2020
+
+-  **Outstanding Student Scholarship (Grade 3)** 2021
+
+-  **ISC 2021 Student Cluster Competition,Get the sixth place in the group** 2021
+
+
 
 ### Interests
 
