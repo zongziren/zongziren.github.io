@@ -76,7 +76,7 @@ Advisor: Prof. **[Wei Gong](http://staff.ustc.edu.cn/~weigong/)** (USTC)
 
 - **USTC Overseas Alumni Foundation Outstanding Student Scholarship** 2019
 
-- **Outstanding Student Scholarship (Grade 1) ** 2020
+- **Outstanding Student Scholarship (Grade 1)** 2020
 
 - **Electromagnetism Little Essay Contest(Grade 3) ** 2020
 
