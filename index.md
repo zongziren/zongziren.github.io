@@ -6,7 +6,7 @@ Github: [zongziren](https://github.com/zongziren)
 
 ## Biography
 
-I am a senior student at Department of Computer Science and Technology in University of Science and Technology of China.
+I am a senior student at the Department of Computer Science and Technology at the University of Science and Technology of China.
 
 ### Education
 
@@ -18,16 +18,16 @@ I am a senior student at Department of Computer Science and Technology in Univer
 
 - **Hua Xia Talent Program** in Computer Science and Technology
 
-- **Mathematics Relevant Coursework:** Mathematical Analysis B1 (95/100), Mathematical Analysis B2 (98/100), Linear Algebra B1 (95/100), Stochastic Processes B (91/100),Graph Theory (97/100), Mathematical Logic(98/100)
+- **Mathematics Relevant Coursework:** Mathematical Analysis B1 (95/100), Mathematical Analysis B2 (98/100), Linear Algebra B1 (95/100), Stochastic Processes B (91/100), Graph Theory (97/100), Mathematical Logic(98/100)
 
-- **Computer Science Relevant Coursework:** , Introduction to Computer Systems (Honor) (95/100), Computer Programming A (92/100), C Language Programming II(93/100), Operations Research (92/100), Computer Networks (92/100) , Principles and Techniques of Compiler(Honor)（95/100), Design Methods of Embedded System (96/100)
+- **Computer Science Relevant Coursework:** Introduction to Computer Systems (Honor) (95/100), Computer Programming A (92/100), C Language Programming II(93/100), Operations Research (92/100), Computer Networks (92/100), Principles and Techniques of Compiler(Honor)（95/100), Design Methods of Embedded System (96/100)
 
 ### Research Interests
 
 - **Computer Systems**
 
   - Computer networks
-  - Concurrent, parallel and distributed systems
+  - Concurrent, parallel, and distributed systems
 
 - **Applied Computer Science**
   - Machine Learning
@@ -40,13 +40,13 @@ Advisor: Prof. **[Hong An](http://cs.ustc.edu.cn/2020/0426/c23235a460072/page.ht
 
 - ISC21(the International Supercomputing Conference 2021 Student Cluster Competition)(Sixth place in the group)
 
-  ​ **[ISC Student Cluster Competition]([Student Cluster Competition - Welcome to ISC High Performance 2022 (isc-hpc.com)](https://www.isc-hpc.com/student-cluster-competition.html))**
+   **[ISC Student Cluster Competition]([Student Cluster Competition - Welcome to ISC High Performance 2022 (isc-hpc.com)](https://www.isc-hpc.com/student-cluster-competition.html))**
 
-  - In charge of the optimization of lammps(Large-scale Atomic/Molecular Massively Parallel Simulator) which is is a classical molecular dynamics code. Individual Ranking:4
+  - In charge of the optimization of Lammps(Large-scale Atomic/Molecular Massively Parallel Simulator) which is is a classical molecular dynamics code. Individual Ranking:4
 
     **[LAMMPS for ISC21]([LAMMPS for ISC21 - HPC-Works - Confluence (atlassian.net)](https://hpcadvisorycouncil.atlassian.net/wiki/spaces/HPCWORKS/pages/1928986641/LAMMPS+for+ISC21))**
 
-  - In charge of the Coding Challenge.(The main target is to analyze MPI_alltoallv patterns within the application.) Individual Ranking:4
+  - In charge of the Coding Challenge. (The main target is to analyze MPI_alltoallv patterns within the application.) Individual Ranking:4
 
     **[Coding Challenge (ISC21)]([Coding Challenge (ISC21) - HPC-Works - Confluence (atlassian.net)](https://hpcadvisorycouncil.atlassian.net/wiki/spaces/HPCWORKS/pages/2159706134/Coding+Challenge+ISC21))**
 
@@ -71,12 +71,12 @@ Advisor: Prof. **[Wei Gong](http://staff.ustc.edu.cn/~weigong/)** (USTC)
 
 - **Outstanding Student Scholarship (Grade 3)** 2021
 
-- **ISC 2021 Student Cluster Competition,Get the sixth place in the group** 2021
+- **ISC 2021 Student Cluster Competition, Get the sixth place in the group** 2021
 
 ### Interests
 
 - soccer
 
-​ University of science and technology of China young eagle cup men's football match：Championship
+ University of science and technology of China young eagle cup men's football match ：Champion
 
-​ ![](.\1.jpg)
+ ![](.\1.jpg)
