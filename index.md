@@ -55,7 +55,7 @@ Advisor: Prof. **[Hong An](http://cs.ustc.edu.cn/2020/0426/c23235a460072/page.ht
 
 Advisor: Prof. **[Wei Gong](http://staff.ustc.edu.cn/~weigong/)** (USTC)
 
-- My research focuses on wireless networks and beackground
+- My research focuses on wireless networks and backward scattering
 - Preparing a submission to SENSYS.
 
 
