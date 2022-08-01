@@ -26,6 +26,7 @@ I am a senior student at the Department of Computer Science and Technology at th
 
 - **Computer Systems**
 
+  - Machine Learning systems
   - Computer networks
   - Concurrent, parallel, and distributed systems
 
@@ -54,8 +55,15 @@ Advisor: Prof. **[Hong An](http://cs.ustc.edu.cn/2020/0426/c23235a460072/page.ht
 
 Advisor: Prof. **[Wei Gong](http://staff.ustc.edu.cn/~weigong/)** (USTC)
 
-- My research focuses on wireless networks.
+- My research focuses on wireless networks and beackground
 - Preparing a submission to SENSYS.
+
+
+<p style="text-align:left;"><strong>Remote Summer Researcher, CMU</strong><span style="float:right;">Jul 2022 - present</span></p>
+
+Advisor: Prof. **[zhihao jia](https://www.cs.cmu.edu/~zhihaoj2/)** (CMU)
+
+- My research focuses on MLsys
 
 ### Awards
 
