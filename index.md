@@ -12,14 +12,7 @@ I'm a first-year PhD student at NTU.
 
 - <p style="text-align:left;"><strong><a href="http://en.ustc.edu.cn/">University of Science and Technology of China (USTC)</a></strong><span style="float:right;">
 
-  - <p style="text-align:left;"><strong><a href="http://en.scgy.ustc.edu.cn/profile">The school of the gifted young</a></strong><span style="float:right;">
-
-  - Major in Computer Science and Technology
-
-  - **Hua Xia Talent Program** in Computer Science and Technology
-- <p style="text-align:left;"><strong><a href="https://www.ntu.edu.sg/">University of Science and Technology of China (USTC)</a></strong><span style="float:right;">
-
-  - <p style="text-align:left;"><strong><a href="https://www.ntu.edu.sg/scse/">School of Computer Science and Engineering</a></strong><span style="float:right;">
+- <p style="text-align:left;"><strong><a href="https://www.ntu.edu.sg/">Nanyang Technological University (NTU)</a></strong><span style="float:right;">
 
 
 
@@ -58,9 +51,6 @@ Advisor: Prof. **[Wei Gong](http://staff.ustc.edu.cn/~weigong/)** (USTC)
 
 - My research focuses on wireless networks and backward scattering
 - Preparing a submission to SENSYS.
-
-
-<p style="text-align:left;"><strong>Remote Summer Researcher, CMU</strong><span style="float:right;">Jul 2022 - present</span></p>
 
 ### Interests
 
