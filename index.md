@@ -1,26 +1,27 @@
 ## Welcome to Shurui Zhong 's Home Page
 
-Email: zsr1341864378@mail.ustc.edu.cn
+Email: SHURUI001@e.ntu.edu.sg
 
 Github: [zongziren](https://github.com/zongziren)
 
 ## Biography
 
-I am a senior student at the Department of Computer Science and Technology at the University of Science and Technology of China.
+I'm a first-year PhD student at NTU.
 
 ### Education
 
 - <p style="text-align:left;"><strong><a href="http://en.ustc.edu.cn/">University of Science and Technology of China (USTC)</a></strong><span style="float:right;">
 
-- <p style="text-align:left;"><strong><a href="http://en.scgy.ustc.edu.cn/profile">The school of the gifted young</a></strong><span style="float:right;">
+  - <p style="text-align:left;"><strong><a href="http://en.scgy.ustc.edu.cn/profile">The school of the gifted young</a></strong><span style="float:right;">
 
-- Major in Computer Science and Technology
+  - Major in Computer Science and Technology
 
-- **Hua Xia Talent Program** in Computer Science and Technology
+  - **Hua Xia Talent Program** in Computer Science and Technology
+- <p style="text-align:left;"><strong><a href="https://www.ntu.edu.sg/">University of Science and Technology of China (USTC)</a></strong><span style="float:right;">
 
-- **Mathematics Relevant Coursework:** Mathematical Analysis B1 (95/100), Mathematical Analysis B2 (98/100), Linear Algebra B1 (95/100), Stochastic Processes B (91/100), Graph Theory (97/100), Mathematical Logic(98/100)
+  - <p style="text-align:left;"><strong><a href="https://www.ntu.edu.sg/scse/">School of Computer Science and Engineering</a></strong><span style="float:right;">
 
-- **Computer Science Relevant Coursework:** Introduction to Computer Systems (Honor) (95/100), Computer Programming A (92/100), C Language Programming II(93/100), Operations Research (92/100), Computer Networks (92/100), Principles and Techniques of Compiler(Honor)（95/100), Design Methods of Embedded System (96/100)
+
 
 ### Research Interests
 
@@ -60,26 +61,6 @@ Advisor: Prof. **[Wei Gong](http://staff.ustc.edu.cn/~weigong/)** (USTC)
 
 
 <p style="text-align:left;"><strong>Remote Summer Researcher, CMU</strong><span style="float:right;">Jul 2022 - present</span></p>
-
-Advisor: Prof. **[zhihao jia](https://www.cs.cmu.edu/~zhihaoj2/)** (CMU)
-
-- My research focuses on MLsys
-
-### Awards
-
-- **Outstanding Freshman Scholarship (Grade 1)** 2019
-
-- **USTC Overseas Alumni Foundation Outstanding Student Scholarship** 2019
-
-- **Outstanding Student Scholarship (Grade 1)** 2020
-
-- **Electromagnetism Little Essay Contest(Grade 3)** 2020
-
-- **Second Prize of AnHui Competition Area in The Chinese Mathematics Competitions** 2020
-
-- **Outstanding Student Scholarship (Grade 3)** 2021
-
-- **ISC 2021 Student Cluster Competition, Get the sixth place in the group** 2021
 
 ### Interests
 
