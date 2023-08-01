@@ -4,7 +4,7 @@ Email: SHURUI001@e.ntu.edu.sg
 
 Github: [zongziren](https://github.com/zongziren)
 
-## Biography
+### Biography
 
 I'm a first-year PhD student at NTU.
 
